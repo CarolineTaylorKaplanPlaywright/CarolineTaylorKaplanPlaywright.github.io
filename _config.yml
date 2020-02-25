@@ -1,14 +1,14 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: ctkaplan@g.ucla.edu
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Caroline Taylor Kaplan
+title: Playwright and Screenwriter
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
+  Caroline Taylor Kaplan is a writer from Chicago, educated in New York, and living in Los Angeles. 
+url: CarolineTaylorKaplanPlaywright.github.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
